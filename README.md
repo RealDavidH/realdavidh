@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm David</h1>
 <h3 align="center">A passionate developer from Seattle, WA</h3>
 
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
