@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RealDavidH
 - 👀 I’m interested in learning!
-- 🌱 I’m currently learning React, MongoDB, and JS
+- 🌱 I’m currently learning React, MongoDB, and Express!
 - 📫 You can reach me @: david.hollinger123@gmail.com
 
 <!---
