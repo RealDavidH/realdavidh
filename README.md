@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RealDavidH
 - 👀 I’m interested in learning!
-- 🌱 I’m currently learning Java!
+- 🌱 I’m currently learning Java with spring!
 - 📫 You can reach me @: david.hollinger123@gmail.com
 
 <!---
