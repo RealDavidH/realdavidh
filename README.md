@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RealDavidH
 - 👀 I’m interested in learning!
-- 🌱 I’m currently learning Java with spring framework!
+- 🌱 I’m currently learning Java
 - 📫 You can reach me @: david.hollinger123@gmail.com
 - Lets connected on linked in! https://www.linkedin.com/in/realdavid-hollinger/
 
