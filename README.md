@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @RealDavidH
-- 👀 I’m interested in learning!
-- 🌱 I’m currently learning Java
 - 📫 You can reach me @: dhollingercodes@gmail.com
 - Lets connected on linked in! https://www.linkedin.com/in/realdavid-hollinger/
 
